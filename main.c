@@ -27,5 +27,9 @@ void main(void) {
         LATAbits.LATA0 = ~LATAbits.LATA0;
         // Delay500 milliseconds
         delay_ms(500);
+        delay_ms(500);
+        delay_ms(500);
+        delay_ms(500);
+        delay_ms(500);
     }
 }
